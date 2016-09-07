@@ -6,3 +6,7 @@ categories: jekyll update
 ---
 
 Just toolin' around.
+
+This is Ingenio.xyz website. To get into it, do click [here][here]
+
+[here]: http://ingenio.xyz
